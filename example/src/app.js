@@ -1,6 +1,6 @@
 import React from 'react'
 import { render } from 'react-dom'
-import ReactDemo from 'form-react-cmp'
+import ReactDemo from '../../src/index.js'
 
 const App = () => <ReactDemo />
 render(<App />, document.getElementById('root'))
