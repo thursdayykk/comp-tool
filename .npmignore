@@ -1,0 +1,8 @@
+package.json
+package-lock.json
+.npmignore
+.babelrc
+/src/
+/node_modules/
+/example/
+/config/
